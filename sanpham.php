@@ -1,5 +1,5 @@
-<?php
-	//chèn file vào 1 laanfkhoong trùng nhau
+﻿<?php
+	//chèn file vào 1 laanfkhoong trùng nhau andamancntt
 	require_once('connect.php');
 	$link = ketnoi();
 	if(isset($_GET['madm'])) $madm = $_GET['madm'];
